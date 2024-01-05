@@ -12,6 +12,11 @@
 // const res=redu.reduce((x,y)=>x+y)
 // console.log(res);
 
+// const fr=[10,20,30,40,50]
+// fr.forEach((x)=>{
+//     console.log(x*2);
+// })
+
 // const arr=[10,20,30,40,50,60];
 // arr.push(8000)
 // console.log(arr);
