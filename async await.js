@@ -1,5 +1,8 @@
 async function sum(){
-let a= await "hai"
-return a
+return "hai"
 }
-console.log(sum());
+async function run(){
+    const result=await sum()
+    console.log(result);
+}
+run()
