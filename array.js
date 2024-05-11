@@ -33,6 +33,10 @@
 // arr.unshift(400)
 // console.log(arr);
 
+// const arr = ["apple","banana","graps","guva"]
+// arr.splice(1,2)
+// console.log(arr);
+
 
 // ---------de structuring-------
 

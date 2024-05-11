@@ -8,3 +8,4 @@ try {
     
 }finally{
     console.log('finsh');
+}
