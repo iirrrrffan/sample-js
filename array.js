@@ -17,6 +17,7 @@
 //     console.log(x*2);
 // })
 
+
 // const arr=[10,20,30,40,50,60];
 // arr.push(8000)
 // console.log(arr);
@@ -30,7 +31,7 @@
 // console.log(arr);
 
 // const arr=[10,20,30,40,50,60];
-// arr.unshift(400)
+// arr.unshift(400) 
 // console.log(arr);
 
 // const arr = ["apple","banana","graps","guva"]

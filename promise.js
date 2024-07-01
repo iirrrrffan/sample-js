@@ -8,8 +8,6 @@ const mywork=new Promise((resolve,reject)=>{
     }
 })
 
- const data=async()=>{
-    
- }
+
 
 
